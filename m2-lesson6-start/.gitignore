@@ -8,6 +8,8 @@
 .project
 target/
 out/
+build/
+classes/
 
 # Mac OS X hidden files
 .DS_Store
