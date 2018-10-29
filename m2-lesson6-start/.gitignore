@@ -14,11 +14,14 @@ classes/
 # Mac OS X hidden files
 .DS_Store
 
-*.iml
+.iml
 .idea
 .idea/
 work/
 .gradle/
+
+common/*.iml
+um-webapp/*.iml
 
 # Package Files #
 *.jar
