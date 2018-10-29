@@ -11,3 +11,5 @@
 *.jar
 *.war
 *.ear
+!/common-m2-l6-start.iml
+/common-m2-l6-start.iml

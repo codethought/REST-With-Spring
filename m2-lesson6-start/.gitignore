@@ -30,3 +30,5 @@ um-webapp/*.iml
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/common/common-m2-l6-start.iml
+/um-webapp/um-webapp-m2-l6-start.iml
