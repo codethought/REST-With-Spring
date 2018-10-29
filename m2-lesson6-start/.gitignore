@@ -32,3 +32,5 @@ um-webapp/*.iml
 hs_err_pid*
 /common/common-m2-l6-start.iml
 /um-webapp/um-webapp-m2-l6-start.iml
+/common/target/
+!/um-webapp/target/
