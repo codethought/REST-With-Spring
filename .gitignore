@@ -7,9 +7,18 @@
 .classpath
 .project
 target/
+out/
+build/
+classes/
+
+# Mac OS X hidden files
+.DS_Store
 
 *.iml
 .idea
+.idea/
+work/
+.gradle/
 
 # Package Files #
 *.jar
